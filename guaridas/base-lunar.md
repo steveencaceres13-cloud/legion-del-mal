@@ -65,12 +65,8 @@ _Brainiac se conecta remotamente a sus drones. Doctor Doom viaja cada 2 semanas 
 
 _La Base Lunar es nuestro activo más valioso y más vulnerable. Cualquier operación que la exponga requiere aprobación unánime del Consejo._
 _"Si Superman descubre esta base, todo se acaba. Literalmente puede volar hasta aquí en 4 minutos." — Lex Luthor_
-
-<<<<<<< HEAD
 ## Plan B
-=======
 
 ## Coordenadas
 1. (10,10,15,0)
 2. *(11,12,132,14)
->>>>>>> rama-conflicto
