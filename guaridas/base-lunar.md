@@ -13,7 +13,11 @@ Base secundaria de la Legión. Construida por Brainiac usando nanotecnología y 
 
 Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si patrullara esta zona, pero según Mystique, su ruta habitual pasa a 200,000 km de distancia.
 
+<<<<<<< HEAD
 ## Instalaciones v3.0
+=======
+## Instalaciones v2.0
+>>>>>>> rama-conflicto
 
 - Laboratorio de clonación (preparándose para el Proyecto Krypton)
 - Taller de ensamblaje satelital (Glaciar-1 se construye aquí)
@@ -62,4 +66,11 @@ _Brainiac se conecta remotamente a sus drones. Doctor Doom viaja cada 2 semanas 
 _La Base Lunar es nuestro activo más valioso y más vulnerable. Cualquier operación que la exponga requiere aprobación unánime del Consejo._
 _"Si Superman descubre esta base, todo se acaba. Literalmente puede volar hasta aquí en 4 minutos." — Lex Luthor_
 
+<<<<<<< HEAD
 ## Plan B
+=======
+
+## Coordenadas
+1. (10,10,15,0)
+2. *(11,12,132,14)
+>>>>>>> rama-conflicto
